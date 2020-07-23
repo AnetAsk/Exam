@@ -1,0 +1,9 @@
+C:\Users\askar\source\repos\Exam\Domain.Model\bin\Debug\netstandard2.0\Domain.Model.deps.json
+C:\Users\askar\source\repos\Exam\Domain.Model\bin\Debug\netstandard2.0\Domain.Model.dll
+C:\Users\askar\source\repos\Exam\Domain.Model\bin\Debug\netstandard2.0\Domain.Model.pdb
+C:\Users\askar\source\repos\Exam\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.csprojAssemblyReference.cache
+C:\Users\askar\source\repos\Exam\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.AssemblyInfoInputs.cache
+C:\Users\askar\source\repos\Exam\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.AssemblyInfo.cs
+C:\Users\askar\source\repos\Exam\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\askar\source\repos\Exam\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.dll
+C:\Users\askar\source\repos\Exam\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.pdb

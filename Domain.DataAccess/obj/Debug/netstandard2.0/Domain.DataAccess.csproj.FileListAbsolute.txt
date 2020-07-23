@@ -1,0 +1,12 @@
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\bin\Debug\netstandard2.0\Domain.DataAccess.deps.json
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\bin\Debug\netstandard2.0\Domain.DataAccess.dll
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\obj\Debug\netstandard2.0\Domain.DataAccess.csprojAssemblyReference.cache
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\obj\Debug\netstandard2.0\Domain.DataAccess.AssemblyInfoInputs.cache
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\obj\Debug\netstandard2.0\Domain.DataAccess.AssemblyInfo.cs
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\bin\Debug\netstandard2.0\Domain.DataAccess.pdb
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\bin\Debug\netstandard2.0\Domain.Model.dll
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\bin\Debug\netstandard2.0\Domain.Model.pdb
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\obj\Debug\netstandard2.0\Domain.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\obj\Debug\netstandard2.0\Domain.DataAccess.csproj.CopyComplete
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\obj\Debug\netstandard2.0\Domain.DataAccess.dll
+C:\Users\askar\source\repos\Exam\Domain.DataAccess\obj\Debug\netstandard2.0\Domain.DataAccess.pdb
